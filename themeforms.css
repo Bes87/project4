@@ -1,0 +1,24 @@
+div {
+	display: block;
+	background-color: green;
+}
+
+#email {
+	border-style: double;
+
+}
+
+textarea[name="comment"] {
+	width: 500px;
+	height:300px;
+	border-color: yellow;
+	border-radius: 10px;
+	border-style: dashed;
+	box-shadow: 3px 4px 2px blue;
+	background-color: transparent;
+}
+
+#state option:nth-child(odd) {
+	background-color: blue;
+
+}
